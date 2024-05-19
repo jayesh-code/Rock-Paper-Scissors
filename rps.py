@@ -41,5 +41,5 @@ while True:
 
 print("You won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
-print("The Game Ties ", Tied, "times")
+print("The Game Tied", Tied, "times")
 print("Goodbye!")
